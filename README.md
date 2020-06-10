@@ -34,7 +34,7 @@ Es un proyecto que caracterizará el sector de la población que lamentablemente
 5. Desarrollo de tablero para exploración de grupos - 17 Julio - 31 de Julio
 5. Desarrollo de producto de datos / editorial - 1 Agosto - 14 de Agosto
 
-## Organización y roles
+## Organización y roles de trabajo
 1. Líder de Proyecto: Frida García
 2. Científica de Datos: Brenda Jiménez
 3. Ingeniero de Datos: Eddie Lozada
